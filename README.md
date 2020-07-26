@@ -35,4 +35,4 @@ Hi there, I'm **Nadeera**, a passionate self-taught **Developer**.
 
 ![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=Nadeera3784&show_icons=true)
 
-⭐️ From [Nadeera](https://github.com/Nadeera3784&)
+⭐️ From [Nadeera](https://github.com/Nadeera3784)
