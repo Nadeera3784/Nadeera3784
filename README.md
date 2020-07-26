@@ -1,12 +1,12 @@
 ![me](https://github.com/L1cardo/L1cardo/raw/master/assets/me.gif)
 
-## Hey 👋, I'm Albert Abdilim
+## Hey 👋, I'm Nadeera
 
-Hi there, I'm **Albert Abdilim**, a **medical student**.
+Hi there, I'm **Nadeera**, a **Developer**.
 
 I am **[Uyghur](https://en.wikipedia.org/wiki/Uyghurs)**, which is a minority in China. Now I am studying medical imaging at **[HUST](http://english.hust.edu.cn/)**.
 
-I love programming and I love Swift.
+I love programming
 
 ### Talking about Personal Stuffs:
 
