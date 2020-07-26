@@ -6,8 +6,8 @@ Hi there, I'm **Nadeera**, a passionate self-taught **Developer**.
 ### About
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
--  **Hobbies :** Traveling :basketball: & Music :headphones:
--  **Fact :** First solve the problem, then write the code :heart:
+-  **Hobbies :** Traveling :beach_umbrella: & Music :headphones:
+-  **Fact :** First solve the problem, then write the code :computer:
 -  **Interests :** Naturalistic Programming, UI Design, Mobile App Development :pushpin:
 
 ### Languages and Tools:
