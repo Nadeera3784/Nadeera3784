@@ -35,6 +35,6 @@ Hi there, I'm **Nadeera**, a passionate self-taught **Developer**.
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 ### My GitHub Stats:
 
-![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=Nadeera3784&show_icons=true)
+![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=Nadeera3784&show_icons=true&count_private=true)
 
 ⭐️ From [Nadeera](https://github.com/Nadeera3784)
