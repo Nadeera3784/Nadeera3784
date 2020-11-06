@@ -1,4 +1,4 @@
-## Hey 👋, I'm Nadeera
+## Hey, I'm Nadeera
 
 Hi there, I'm **Nadeera**, a passionate self-taught **Developer**.
 
