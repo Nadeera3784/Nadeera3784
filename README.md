@@ -13,6 +13,7 @@ Hi there, I'm **Nadeera**, a passionate self-taught **Developer**.
 ### Languages And Tools:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
 ![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white)
