@@ -34,7 +34,6 @@ Hi there, I'm **Nadeera**, a passionate self-taught **Developer**.
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ### GitHub Stats:
 
 ![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=Nadeera3784&show_icons=true&count_private=true)
