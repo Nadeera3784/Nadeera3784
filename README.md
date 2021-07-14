@@ -7,6 +7,6 @@ Hi there, I'm **Nadeera**, a passionate self-taught **Developer**.
 
 -  **Learning :** Full-Stack Development
 -  **Hobbies :** Reading | Music | Movies  
--  **Fact :** First solve the problem, then write the code
+-  **Fact :** First Solve The Problem, Then Write The Code
 -  **Interests :** Naturalistic Programming, Mobile App Development
 
