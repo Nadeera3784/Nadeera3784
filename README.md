@@ -1,6 +1,6 @@
-## Hey, I'm Nadeera
+## Hi there,
 
-Hi there, I'm **Nadeera**, a passionate self-taught **Developer**.
+I'm **Nadeera**, a passionate self-taught **Developer**.
 
 
 ### About: 
